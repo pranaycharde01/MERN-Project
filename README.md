@@ -2,6 +2,10 @@
 
 A full-stack web application that helps colleges manage assignments, student submissions, and faculty grading in one platform.
 
+## 🌐 Live Demo
+
+**[Open Live Website](https://mern-project-self.vercel.app/)**
+
 ## Features
 
 ### Student
@@ -48,10 +52,17 @@ A full-stack web application that helps colleges manage assignments, student sub
 * MongoDB Atlas
 * Mongoose
 
+**Deployment**
+
+* Vercel — Frontend
+* Render — Backend
+* MongoDB Atlas — Database
+
 ## Project Structure
 
 ```text
 MERN-Project/
+
 │
 ├── backend/
 │   ├── middleware/
@@ -172,6 +183,7 @@ MongoDB Atlas stores:
 **Pranay Charde**
 
 GitHub:
+
 https://github.com/pranaycharde01
 
 ## Project Status
